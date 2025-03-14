@@ -1,0 +1,1001 @@
+user_id,gender,age_group,education_level,marital_status,children_status
+0,Female,45-64,High,Married,Yes
+1,Male,26-44,High,Married,Yes
+2,Male,65+,Middle,Divorced or Widowed,No
+3,Male,65+,High,Married,No
+4,Female,65+,High,Married,No
+5,Female,65+,Middle,Married,No
+6,Female,65+,Low,Married,No
+7,Male,65+,Middle,Cohabiting,No
+8,Male,45-64,High,Married,Yes
+9,Male,26-44,Low,Cohabiting,No
+10,Female,45-64,High,Married,No
+11,Male,15-18,Middle,Single,No
+12,Male,19-25,Middle,Married,Yes
+13,Female,45-64,High,Married,No
+14,Female,65+,Low,Married,Yes
+15,Female,19-25,High,Married,No
+16,Female,45-64,Low,Married,Yes
+17,Female,26-44,Middle,Married,Yes
+18,Female,19-25,High,Cohabiting,No
+19,Female,45-64,Middle,Married,No
+20,Male,65+,Middle,Divorced or Widowed,No
+21,Female,45-64,Middle,Married,No
+22,Female,19-25,Middle,Single,No
+23,Female,19-25,High,Married,Yes
+24,Female,19-25,High,Cohabiting,Yes
+25,Male,26-44,High,Married,Yes
+26,Female,65+,Middle,Single,No
+27,Female,65+,Middle,Married,No
+28,Male,45-64,High,Married,Yes
+29,Female,65+,Middle,Married,No
+30,Male,45-64,High,Divorced or Widowed,No
+31,Female,26-44,Middle,Married,No
+32,Female,45-64,Low,Married,No
+33,Male,45-64,Middle,Divorced or Widowed,Yes
+34,Male,45-64,Middle,Married,No
+35,Male,65+,Low,Divorced or Widowed,Yes
+36,Female,45-64,High,Married,Yes
+37,Female,65+,High,Single,No
+38,Male,45-64,High,Cohabiting,Yes
+39,Female,45-64,High,Married,Yes
+40,Female,26-44,Middle,Cohabiting,Yes
+41,Female,65+,Low,Single,No
+42,Female,45-64,Middle,Divorced or Widowed,No
+43,Male,26-44,High,Married,Yes
+44,Female,65+,Middle,Married,No
+45,Male,26-44,Middle,Married,No
+46,Female,45-64,High,Married,No
+47,Female,45-64,Middle,Married,Yes
+48,Female,65+,Low,Married,Yes
+49,Female,45-64,High,Married,No
+50,Male,65+,Low,Divorced or Widowed,Yes
+51,Male,26-44,Low,Married,Yes
+52,Male,19-25,High,Cohabiting,Yes
+53,Male,65+,Middle,Divorced or Widowed,No
+54,Male,15-18,Middle,Single,No
+55,Male,26-44,Middle,Single,No
+56,Female,65+,Low,Married,Yes
+57,Female,26-44,High,Cohabiting,No
+58,Female,26-44,Middle,Cohabiting,Yes
+59,Female,26-44,Middle,Single,Yes
+60,Female,65+,High,Divorced or Widowed,No
+61,Female,15-18,Middle,Cohabiting,No
+62,Male,65+,Middle,Married,Yes
+63,Female,26-44,High,Married,No
+64,Female,26-44,High,Married,Yes
+65,Female,65+,Middle,Divorced or Widowed,No
+66,Female,45-64,High,Cohabiting,No
+67,Male,45-64,High,Single,Yes
+68,Female,26-44,High,Divorced or Widowed,No
+69,Male,45-64,High,Married,Yes
+70,Male,45-64,Middle,Married,No
+71,Female,45-64,Middle,Married,Yes
+72,Female,45-64,High,Married,Yes
+73,Male,45-64,Middle,Married,Yes
+74,Male,15-18,Middle,Single,No
+75,Male,26-44,Middle,Single,No
+76,Male,26-44,High,Single,No
+77,Female,65+,Low,Divorced or Widowed,No
+78,Female,45-64,Middle,Divorced or Widowed,No
+79,Female,19-25,Middle,Single,No
+80,Male,65+,High,Married,Yes
+81,Male,45-64,High,Married,No
+82,Female,26-44,High,Divorced or Widowed,No
+83,Female,65+,Middle,Married,Yes
+84,Female,19-25,Low,Single,No
+85,Female,26-44,Low,Married,No
+86,Male,26-44,High,Married,No
+87,Male,45-64,Middle,Cohabiting,No
+88,Male,15-18,Middle,Single,No
+89,Female,45-64,Low,Divorced or Widowed,No
+90,Female,19-25,Middle,Single,No
+91,Male,65+,Middle,Single,No
+92,Male,26-44,High,Married,No
+93,Male,26-44,Low,Single,Yes
+94,Male,45-64,High,Divorced or Widowed,No
+95,Female,45-64,Middle,Married,No
+96,Female,45-64,Middle,Single,No
+97,Female,45-64,Middle,Divorced or Widowed,No
+98,Female,65+,Middle,Cohabiting,No
+99,Female,26-44,High,Married,No
+100,Female,45-64,Middle,Divorced or Widowed,No
+101,Male,19-25,Low,Single,No
+102,Female,65+,High,Married,Yes
+103,Female,19-25,Middle,Single,No
+104,Male,15-18,Middle,Single,No
+105,Female,45-64,High,Married,Yes
+106,Female,26-44,Middle,Married,Yes
+107,Male,65+,Middle,Cohabiting,No
+108,Female,65+,High,Married,Yes
+109,Female,45-64,Middle,Married,Yes
+110,Female,65+,High,Married,Yes
+111,Female,45-64,High,Divorced or Widowed,No
+112,Male,45-64,High,Married,No
+113,Male,26-44,Middle,Cohabiting,No
+114,Male,26-44,Middle,Divorced or Widowed,No
+115,Male,26-44,High,Single,No
+116,Male,45-64,Low,Married,Yes
+117,Female,65+,Middle,Cohabiting,No
+118,Male,45-64,High,Divorced or Widowed,No
+119,Female,45-64,Middle,Divorced or Widowed,No
+120,Male,65+,Middle,Divorced or Widowed,No
+121,Male,19-25,High,Cohabiting,No
+122,Female,65+,Middle,Divorced or Widowed,No
+123,Female,65+,Low,Married,Yes
+124,Female,65+,No education,Married,Yes
+125,Female,26-44,Middle,Married,Yes
+126,Male,45-64,Middle,Married,Yes
+127,Male,26-44,High,Cohabiting,Yes
+128,Female,26-44,Middle,Single,No
+129,Female,45-64,Low,Married,No
+130,Female,65+,High,Married,No
+131,Female,26-44,High,Single,No
+132,Female,45-64,Middle,Single,No
+133,Female,45-64,Middle,Married,Yes
+134,Male,65+,Middle,Divorced or Widowed,No
+135,Female,45-64,Middle,Married,No
+136,Female,65+,High,Married,Yes
+137,Male,26-44,Middle,Married,No
+138,Female,26-44,High,Married,Yes
+139,Male,26-44,Middle,Cohabiting,No
+140,Male,65+,Middle,Divorced or Widowed,No
+141,Female,45-64,Middle,Single,No
+142,Female,65+,Middle,Married,No
+143,Female,26-44,High,Married,Yes
+144,Female,45-64,Low,Married,Yes
+145,Female,65+,Middle,Divorced or Widowed,No
+146,Male,65+,Low,Married,No
+147,Female,65+,Low,Married,No
+148,Female,65+,Low,Married,Yes
+149,Female,65+,Middle,Married,Yes
+150,Male,65+,Low,Married,No
+151,Female,65+,High,Divorced or Widowed,No
+152,Female,65+,Middle,Married,Yes
+153,Female,65+,Middle,Married,No
+154,Male,26-44,High,Married,No
+155,Female,65+,High,Married,No
+156,Male,45-64,High,Single,No
+157,Male,65+,Low,Divorced or Widowed,Yes
+158,Female,65+,Low,Married,Yes
+159,Male,45-64,Middle,Married,Yes
+160,Female,65+,Middle,Married,Yes
+161,Male,45-64,Middle,Cohabiting,No
+162,Male,45-64,Low,Married,Yes
+163,Female,65+,Middle,Married,No
+164,Female,45-64,Low,Cohabiting,No
+165,Male,65+,Middle,Married,No
+166,Female,65+,Middle,Married,No
+167,Female,26-44,High,Cohabiting,No
+168,Female,45-64,Middle,Married,No
+169,Male,45-64,High,Married,No
+170,Male,26-44,Middle,Married,No
+171,Female,15-18,Middle,Single,Yes
+172,Female,26-44,High,Cohabiting,No
+173,Female,45-64,Middle,Divorced or Widowed,No
+174,Male,26-44,High,Cohabiting,Yes
+175,Female,26-44,Middle,Cohabiting,Yes
+176,Male,65+,High,Married,Yes
+177,Female,45-64,Middle,Married,Yes
+178,Male,65+,Middle,Married,No
+179,Female,26-44,Low,Married,No
+180,Female,19-25,High,Cohabiting,No
+181,Female,45-64,High,Married,Yes
+182,Male,26-44,High,Married,Yes
+183,Male,19-25,High,Cohabiting,No
+184,Female,45-64,Middle,Married,No
+185,Male,19-25,Middle,Single,No
+186,Male,65+,Middle,Divorced or Widowed,No
+187,Male,45-64,Middle,Married,Yes
+188,Female,45-64,Middle,Married,Yes
+189,Female,65+,Middle,Married,Yes
+190,Female,45-64,High,Married,Yes
+191,Male,26-44,Middle,Single,No
+192,Male,45-64,Middle,Single,No
+193,Male,26-44,Middle,Married,Yes
+194,Female,45-64,High,Married,Yes
+195,Female,65+,Low,Married,No
+196,Male,19-25,High,Single,No
+197,Male,19-25,Middle,Single,No
+198,Male,65+,Low,Divorced or Widowed,No
+199,Male,45-64,Low,Married,Yes
+200,Male,65+,Middle,Married,Yes
+201,Female,45-64,High,Married,No
+202,Female,45-64,Low,Divorced or Widowed,No
+203,Male,45-64,High,Married,Yes
+204,Male,26-44,Middle,Married,No
+205,Female,65+,Middle,Married,No
+206,Female,65+,High,Married,Yes
+207,Male,26-44,Middle,Married,Yes
+208,Female,45-64,High,Married,No
+209,Female,15-18,Middle,Single,No
+210,Female,26-44,Middle,Cohabiting,No
+211,Male,26-44,Middle,Married,Yes
+212,Male,45-64,High,Divorced or Widowed,No
+213,Female,65+,Middle,Married,No
+214,Male,65+,Middle,Divorced or Widowed,No
+215,Female,45-64,High,Divorced or Widowed,Yes
+216,Female,45-64,Middle,Divorced or Widowed,No
+217,Male,65+,High,Cohabiting,No
+218,Male,65+,Middle,Married,Yes
+219,Male,45-64,High,Married,No
+220,Male,19-25,Middle,Single,No
+221,Male,45-64,Middle,Divorced or Widowed,No
+222,Female,26-44,High,Cohabiting,Yes
+223,Female,19-25,High,Cohabiting,Yes
+224,Female,26-44,High,Cohabiting,No
+225,Female,65+,Low,Married,Yes
+226,Male,26-44,High,Divorced or Widowed,No
+227,Female,45-64,Middle,Married,Yes
+228,Male,15-18,Middle,Cohabiting,No
+229,Male,26-44,High,Divorced or Widowed,No
+230,Male,65+,Middle,Married,Yes
+231,Female,45-64,High,Married,Yes
+232,Male,45-64,Middle,Divorced or Widowed,No
+233,Female,45-64,Middle,Cohabiting,Yes
+234,Female,65+,Middle,Divorced or Widowed,No
+235,Male,26-44,Middle,Divorced or Widowed,No
+236,Female,65+,Middle,Divorced or Widowed,No
+237,Female,26-44,High,Single,No
+238,Male,19-25,High,Single,No
+239,Female,45-64,High,Married,No
+240,Male,65+,Middle,Married,Yes
+241,Male,65+,High,Married,No
+242,Male,65+,Low,Married,Yes
+243,Female,65+,No education,Married,No
+244,Female,65+,Middle,Married,No
+245,Male,26-44,Low,Cohabiting,Yes
+246,Female,45-64,High,Married,No
+247,Male,45-64,Middle,Married,No
+248,Male,19-25,Middle,Single,No
+249,Male,26-44,High,Married,Yes
+250,Female,65+,High,Married,No
+251,Female,26-44,Middle,Cohabiting,No
+252,Male,45-64,Middle,Married,No
+253,Female,45-64,Middle,Divorced or Widowed,No
+254,Female,65+,Middle,Divorced or Widowed,No
+255,Male,26-44,Middle,Cohabiting,Yes
+256,Male,45-64,Middle,Married,Yes
+257,Male,26-44,High,Divorced or Widowed,No
+258,Male,45-64,High,Married,No
+259,Female,26-44,High,Single,No
+260,Male,45-64,Middle,Divorced or Widowed,No
+261,Male,65+,Low,Married,Yes
+262,Female,45-64,Middle,Married,No
+263,Female,26-44,High,Cohabiting,No
+264,Male,45-64,Middle,Married,Yes
+265,Male,45-64,Middle,Cohabiting,No
+266,Male,26-44,Middle,Married,Yes
+267,Male,26-44,Middle,Married,No
+268,Female,26-44,High,Married,Yes
+269,Female,45-64,Middle,Married,Yes
+270,Male,65+,High,Divorced or Widowed,No
+271,Male,65+,Low,Cohabiting,Yes
+272,Male,65+,Low,Married,No
+273,Male,45-64,Middle,Married,No
+274,Female,26-44,Middle,Single,No
+275,Female,45-64,Middle,Married,Yes
+276,Male,45-64,Middle,Married,No
+277,Male,15-18,Middle,Single,No
+278,Male,45-64,Middle,Married,No
+279,Male,26-44,High,Married,No
+280,Male,26-44,High,Married,No
+281,Female,65+,Low,Divorced or Widowed,No
+282,Female,26-44,Low,Single,No
+283,Female,45-64,High,Married,No
+284,Male,45-64,High,Married,Yes
+285,Female,26-44,High,Cohabiting,No
+286,Female,45-64,Middle,Married,Yes
+287,Female,26-44,High,Married,Yes
+288,Female,45-64,Low,Married,No
+289,Male,45-64,High,Divorced or Widowed,Yes
+290,Female,26-44,Middle,Cohabiting,No
+291,Female,45-64,High,Married,No
+292,Male,26-44,High,Married,Yes
+293,Female,65+,Low,Married,Yes
+294,Female,65+,High,Single,No
+295,Female,45-64,High,Cohabiting,No
+296,Male,45-64,High,Married,No
+297,Female,45-64,High,Divorced or Widowed,No
+298,Male,65+,High,Divorced or Widowed,No
+299,Female,65+,Low,Married,Yes
+300,Female,45-64,Middle,Married,No
+301,Female,19-25,Middle,Single,Yes
+302,Female,45-64,Middle,Married,Yes
+303,Male,26-44,High,Married,Yes
+304,Male,65+,Middle,Divorced or Widowed,Yes
+305,Male,65+,Low,Divorced or Widowed,No
+306,Female,65+,High,Divorced or Widowed,No
+307,Female,65+,Middle,Divorced or Widowed,No
+308,Male,45-64,High,Married,Yes
+309,Female,65+,Low,Married,Yes
+310,Female,45-64,Middle,Married,No
+311,Female,65+,Middle,Married,Yes
+312,Female,26-44,Low,Married,No
+313,Male,65+,Middle,Cohabiting,Yes
+314,Male,26-44,Middle,Divorced or Widowed,Yes
+315,Male,65+,High,Married,No
+316,Female,26-44,High,Married,Yes
+317,Female,65+,Low,Cohabiting,No
+318,Female,45-64,Low,Married,No
+319,Female,45-64,Low,Married,Yes
+320,Female,45-64,Middle,Married,Yes
+321,Male,45-64,Middle,Cohabiting,Yes
+322,Male,65+,Low,Married,Yes
+323,Female,45-64,High,Married,No
+324,Male,19-25,Middle,Single,No
+325,Male,45-64,Middle,Married,Yes
+326,Male,45-64,Middle,Married,No
+327,Male,65+,High,Married,Yes
+328,Female,65+,Middle,Divorced or Widowed,No
+329,Female,26-44,High,Married,Yes
+330,Female,26-44,High,Married,No
+331,Male,65+,High,Married,No
+332,Female,45-64,Middle,Divorced or Widowed,No
+333,Female,15-18,Middle,Married,Yes
+334,Female,19-25,High,Single,No
+335,Female,65+,Low,Married,No
+336,Male,45-64,Low,Single,No
+337,Male,65+,Low,Married,Yes
+338,Female,45-64,High,Married,No
+339,Female,45-64,Low,Married,No
+340,Female,45-64,Middle,Married,No
+341,Female,26-44,High,Married,No
+342,Female,65+,High,Married,Yes
+343,Female,65+,Low,Divorced or Widowed,Yes
+344,Female,65+,Middle,Married,Yes
+345,Male,26-44,Middle,Married,No
+346,Male,45-64,Middle,Married,Yes
+347,Female,26-44,High,Divorced or Widowed,No
+348,Female,15-18,Middle,Single,No
+349,Male,45-64,High,Divorced or Widowed,No
+350,Female,65+,Middle,Divorced or Widowed,Yes
+351,Male,26-44,Middle,Married,Yes
+352,Male,26-44,Middle,Single,No
+353,Female,65+,Middle,Married,Yes
+354,Female,26-44,Middle,Cohabiting,No
+355,Male,65+,High,Divorced or Widowed,No
+356,Female,19-25,Middle,Single,No
+357,Male,26-44,High,Married,Yes
+358,Male,45-64,Middle,Married,Yes
+359,Male,26-44,High,Married,No
+360,Female,19-25,High,Single,No
+361,Male,45-64,Low,Married,Yes
+362,Female,26-44,High,Married,Yes
+363,Female,26-44,Low,Divorced or Widowed,No
+364,Male,65+,Low,Single,No
+365,Female,45-64,High,Married,Yes
+366,Male,65+,High,Divorced or Widowed,No
+367,Male,19-25,Middle,Cohabiting,No
+368,Female,45-64,High,Divorced or Widowed,No
+369,Female,45-64,Middle,Married,No
+370,Female,19-25,Middle,Cohabiting,No
+371,Female,45-64,Middle,Married,No
+372,Female,65+,Middle,Divorced or Widowed,No
+373,Male,26-44,High,Married,No
+374,Female,45-64,Middle,Married,Yes
+375,Female,65+,High,Married,Yes
+376,Male,26-44,High,Married,No
+377,Female,26-44,Middle,Cohabiting,Yes
+378,Male,26-44,High,Cohabiting,No
+379,Female,26-44,Middle,Married,Yes
+380,Female,45-64,Middle,Married,No
+381,Male,26-44,Middle,Married,No
+382,Male,19-25,Middle,Cohabiting,No
+383,Male,45-64,Low,Married,Yes
+384,Male,65+,Low,Divorced or Widowed,Yes
+385,Male,45-64,Middle,Married,Yes
+386,Female,65+,Low,Divorced or Widowed,Yes
+387,Female,45-64,Middle,Married,No
+388,Male,19-25,Middle,Cohabiting,No
+389,Male,26-44,Middle,Married,No
+390,Male,45-64,Low,Married,No
+391,Female,45-64,High,Married,Yes
+392,Female,45-64,Low,Married,Yes
+393,Male,26-44,High,Married,No
+394,Female,45-64,Middle,Married,Yes
+395,Male,65+,Low,Single,No
+396,Male,26-44,High,Single,No
+397,Female,45-64,High,Married,No
+398,Male,26-44,Middle,Divorced or Widowed,No
+399,Male,65+,Middle,Married,No
+400,Female,45-64,High,Cohabiting,No
+401,Male,45-64,High,Divorced or Widowed,No
+402,Female,45-64,Low,Single,No
+403,Male,65+,Low,Divorced or Widowed,No
+404,Female,65+,Middle,Married,Yes
+405,Male,26-44,Middle,Married,Yes
+406,Female,65+,Low,Married,Yes
+407,Female,65+,High,Single,No
+408,Male,26-44,Middle,Divorced or Widowed,No
+409,Female,65+,Low,Divorced or Widowed,No
+410,Female,45-64,Middle,Married,No
+411,Male,45-64,High,Divorced or Widowed,No
+412,Male,45-64,Low,Cohabiting,Yes
+413,Male,45-64,High,Married,Yes
+414,Male,26-44,Low,Married,No
+415,Female,19-25,Middle,Single,No
+416,Female,45-64,Low,Married,No
+417,Female,45-64,High,Married,No
+418,Male,26-44,High,Divorced or Widowed,No
+419,Male,19-25,High,Cohabiting,No
+420,Male,45-64,High,Married,No
+421,Male,26-44,High,Married,Yes
+422,Female,45-64,Middle,Married,Yes
+423,Female,45-64,Low,Cohabiting,Yes
+424,Female,15-18,Middle,Single,No
+425,Female,19-25,Middle,Single,No
+426,Female,45-64,High,Married,No
+427,Male,19-25,Middle,Single,No
+428,Female,65+,Low,Married,No
+429,Female,65+,Middle,Married,Yes
+430,Female,26-44,Middle,Married,Yes
+431,Male,26-44,Middle,Single,No
+432,Male,26-44,Middle,Married,No
+433,Female,65+,Low,Married,Yes
+434,Female,45-64,Middle,Married,No
+435,Male,45-64,Low,Married,No
+436,Female,45-64,Low,Divorced or Widowed,No
+437,Male,65+,Low,Married,Yes
+438,Male,45-64,Middle,Single,Yes
+439,Female,65+,High,Married,No
+440,Female,19-25,Low,Married,Yes
+441,Male,45-64,Middle,Married,Yes
+442,Female,65+,Middle,Divorced or Widowed,No
+443,Female,26-44,Middle,Single,No
+444,Male,65+,Low,Single,No
+445,Male,45-64,High,Married,Yes
+446,Male,65+,High,Married,No
+447,Male,65+,High,Married,Yes
+448,Female,19-25,High,Single,No
+449,Female,65+,Low,Divorced or Widowed,No
+450,Male,26-44,High,Married,No
+451,Male,26-44,Middle,Married,Yes
+452,Female,65+,Low,Married,Yes
+453,Male,26-44,High,Married,Yes
+454,Female,45-64,Middle,Single,No
+455,Female,19-25,High,Cohabiting,No
+456,Female,65+,Low,Married,Yes
+457,Female,65+,Middle,Married,No
+458,Female,45-64,Low,Married,No
+459,Female,65+,Low,Married,Yes
+460,Female,26-44,Middle,Married,No
+461,Male,65+,Middle,Divorced or Widowed,No
+462,Male,45-64,Middle,Married,Yes
+463,Male,65+,Low,Married,No
+464,Male,15-18,Middle,Married,Yes
+465,Female,45-64,High,Married,No
+466,Female,19-25,High,Single,No
+467,Male,26-44,High,Married,No
+468,Female,65+,Low,Married,Yes
+469,Male,65+,Low,Divorced or Widowed,Yes
+470,Female,26-44,High,Cohabiting,Yes
+471,Male,65+,Middle,Married,Yes
+472,Female,65+,Middle,Married,No
+473,Male,26-44,Middle,Married,No
+474,Female,45-64,Middle,Married,Yes
+475,Male,65+,Middle,Married,Yes
+476,Female,65+,High,Single,No
+477,Male,65+,Middle,Married,No
+478,Male,65+,High,Married,Yes
+479,Female,26-44,Middle,Married,Yes
+480,Male,65+,High,Divorced or Widowed,No
+481,Male,45-64,Middle,Married,No
+482,Female,26-44,Middle,Married,Yes
+483,Male,45-64,High,Single,No
+484,Male,45-64,Low,Married,No
+485,Male,26-44,Middle,Married,Yes
+486,Female,26-44,Low,Married,No
+487,Female,65+,Middle,Divorced or Widowed,No
+488,Male,26-44,Middle,Cohabiting,Yes
+489,Male,26-44,High,Married,Yes
+490,Female,45-64,High,Divorced or Widowed,No
+491,Male,26-44,High,Married,Yes
+492,Female,45-64,Middle,Married,Yes
+493,Female,45-64,Low,Married,Yes
+494,Female,26-44,Low,Married,Yes
+495,Female,65+,Low,Divorced or Widowed,No
+496,Male,26-44,Middle,Single,No
+497,Female,26-44,Middle,Single,No
+498,Male,26-44,Middle,Divorced or Widowed,No
+499,Male,65+,Low,Married,No
+500,Male,26-44,Middle,Married,Yes
+501,Female,26-44,Middle,Married,Yes
+502,Female,45-64,Middle,Single,No
+503,Male,45-64,Middle,Cohabiting,No
+504,Male,26-44,High,Single,No
+505,Female,26-44,High,Married,No
+506,Male,26-44,Middle,Single,No
+507,Male,26-44,High,Married,No
+508,Male,26-44,Middle,Single,No
+509,Male,65+,Middle,Divorced or Widowed,Yes
+510,Male,65+,High,Divorced or Widowed,No
+511,Female,65+,Middle,Divorced or Widowed,No
+512,Male,19-25,High,Single,No
+513,Male,45-64,Middle,Married,Yes
+514,Female,45-64,Middle,Married,Yes
+515,Female,45-64,Middle,Single,No
+516,Female,65+,High,Divorced or Widowed,No
+517,Male,65+,Low,Divorced or Widowed,Yes
+518,Male,45-64,Middle,Cohabiting,No
+519,Female,19-25,Middle,Cohabiting,No
+520,Male,45-64,Middle,Divorced or Widowed,Yes
+521,Female,19-25,High,Single,No
+522,Male,26-44,High,Married,Yes
+523,Male,45-64,Low,Divorced or Widowed,No
+524,Male,26-44,Middle,Cohabiting,Yes
+525,Female,45-64,High,Divorced or Widowed,No
+526,Female,45-64,High,Single,No
+527,Female,45-64,Middle,Married,Yes
+528,Female,65+,High,Single,No
+529,Male,26-44,No education,Married,No
+530,Male,45-64,Middle,Married,No
+531,Male,26-44,Middle,Married,No
+532,Male,65+,Low,Divorced or Widowed,No
+533,Male,45-64,High,Married,No
+534,Male,26-44,Middle,Divorced or Widowed,No
+535,Male,45-64,Middle,Divorced or Widowed,No
+536,Male,45-64,Middle,Divorced or Widowed,No
+537,Female,65+,High,Divorced or Widowed,No
+538,Female,45-64,Middle,Married,No
+539,Female,26-44,Middle,Cohabiting,No
+540,Male,65+,Middle,Divorced or Widowed,No
+541,Male,45-64,Middle,Married,Yes
+542,Female,26-44,Middle,Cohabiting,No
+543,Male,45-64,Middle,Married,No
+544,Male,19-25,High,Single,No
+545,Female,26-44,Low,Cohabiting,Yes
+546,Female,65+,High,Divorced or Widowed,No
+547,Male,26-44,High,Married,Yes
+548,Female,45-64,Low,Married,Yes
+549,Male,26-44,High,Married,Yes
+550,Female,19-25,High,Single,Yes
+551,Male,26-44,High,Cohabiting,No
+552,Male,65+,Middle,Married,No
+553,Male,65+,Middle,Married,Yes
+554,Male,45-64,High,Divorced or Widowed,No
+555,Female,45-64,Middle,Married,Yes
+556,Female,26-44,Low,Married,Yes
+557,Female,26-44,High,Married,Yes
+558,Male,65+,High,Divorced or Widowed,Yes
+559,Male,19-25,High,Single,Yes
+560,Male,26-44,Middle,Married,Yes
+561,Female,45-64,Middle,Married,No
+562,Female,65+,High,Divorced or Widowed,Yes
+563,Female,45-64,High,Married,No
+564,Female,65+,Low,Married,No
+565,Male,26-44,High,Married,Yes
+566,Female,65+,High,Married,No
+567,Female,45-64,High,Married,No
+568,Male,26-44,Middle,Married,No
+569,Female,26-44,Middle,Single,No
+570,Female,26-44,High,Married,Yes
+571,Male,45-64,Middle,Married,Yes
+572,Female,65+,Low,Married,No
+573,Male,65+,Low,Single,No
+574,Male,45-64,High,Married,Yes
+575,Male,45-64,Middle,Married,No
+576,Female,45-64,Middle,Divorced or Widowed,No
+577,Male,65+,Low,Married,No
+578,Female,26-44,High,Married,Yes
+579,Female,26-44,Middle,Married,Yes
+580,Female,45-64,High,Married,Yes
+581,Male,26-44,Middle,Single,No
+582,Female,26-44,Low,Married,Yes
+583,Female,26-44,High,Single,No
+584,Male,15-18,Middle,Single,No
+585,Female,45-64,Middle,Married,Yes
+586,Female,65+,High,Married,No
+587,Female,26-44,Middle,Married,No
+588,Female,26-44,High,Cohabiting,Yes
+589,Female,65+,Middle,Divorced or Widowed,No
+590,Female,65+,Middle,Single,No
+591,Male,15-18,Middle,Married,No
+592,Female,45-64,Middle,Married,Yes
+593,Female,45-64,Middle,Married,No
+594,Male,65+,High,Married,No
+595,Female,26-44,Middle,Married,Yes
+596,Male,45-64,High,Divorced or Widowed,No
+597,Female,45-64,Middle,Married,No
+598,Female,45-64,High,Married,No
+599,Female,65+,High,Married,No
+600,Female,45-64,Middle,Divorced or Widowed,No
+601,Female,45-64,High,Married,Yes
+602,Female,45-64,Middle,Divorced or Widowed,Yes
+603,Female,26-44,High,Married,No
+604,Female,45-64,High,Divorced or Widowed,No
+605,Female,26-44,Low,Cohabiting,Yes
+606,Female,45-64,High,Married,Yes
+607,Female,65+,High,Divorced or Widowed,No
+608,Female,45-64,Middle,Single,Yes
+609,Male,26-44,High,Single,No
+610,Female,65+,Middle,Married,No
+611,Male,65+,High,Divorced or Widowed,No
+612,Male,26-44,High,Married,Yes
+613,Female,45-64,Middle,Married,No
+614,Male,45-64,High,Married,No
+615,Male,65+,High,Divorced or Widowed,No
+616,Female,15-18,Middle,Single,No
+617,Female,65+,High,Married,Yes
+618,Male,26-44,Middle,Married,No
+619,Male,65+,Low,Divorced or Widowed,Yes
+620,Female,26-44,Middle,Married,Yes
+621,Female,45-64,Middle,Divorced or Widowed,No
+622,Female,26-44,High,Divorced or Widowed,No
+623,Female,19-25,Middle,Single,No
+624,Male,45-64,Low,Divorced or Widowed,Yes
+625,Female,65+,Middle,Divorced or Widowed,No
+626,Female,45-64,High,Cohabiting,No
+627,Male,26-44,Middle,Single,No
+628,Female,45-64,Middle,Married,Yes
+629,Female,26-44,High,Married,Yes
+630,Male,65+,Middle,Married,No
+631,Male,45-64,Middle,Divorced or Widowed,No
+632,Female,65+,High,Married,Yes
+633,Female,65+,High,Divorced or Widowed,Yes
+634,Female,19-25,Middle,Cohabiting,No
+635,Female,45-64,Middle,Married,Yes
+636,Female,26-44,Middle,Single,No
+637,Female,45-64,Middle,Cohabiting,Yes
+638,Female,15-18,Middle,Single,No
+639,Female,19-25,Middle,Cohabiting,Yes
+640,Female,26-44,High,Divorced or Widowed,Yes
+641,Female,65+,High,Married,No
+642,Female,26-44,Middle,Married,Yes
+643,Female,26-44,Middle,Married,No
+644,Female,45-64,High,Married,Yes
+645,Male,65+,Low,Divorced or Widowed,No
+646,Male,45-64,Middle,Married,Yes
+647,Male,65+,Low,Married,No
+648,Male,65+,Low,Married,Yes
+649,Female,65+,Low,Single,No
+650,Female,45-64,High,Married,No
+651,Female,45-64,Low,Married,Yes
+652,Male,45-64,Low,Married,No
+653,Male,26-44,High,Cohabiting,Yes
+654,Female,45-64,Middle,Cohabiting,No
+655,Female,19-25,High,Cohabiting,No
+656,Female,26-44,Middle,Married,Yes
+657,Female,45-64,Middle,Married,Yes
+658,Male,26-44,High,Married,No
+659,Male,26-44,Middle,Single,No
+660,Female,26-44,Low,Married,Yes
+661,Male,26-44,Middle,Married,Yes
+662,Male,19-25,High,Cohabiting,No
+663,Female,26-44,Middle,Cohabiting,Yes
+664,Female,15-18,Middle,Single,No
+665,Female,65+,Low,Married,Yes
+666,Female,45-64,High,Married,No
+667,Female,19-25,Middle,Cohabiting,Yes
+668,Female,45-64,Middle,Cohabiting,Yes
+669,Female,65+,Low,Married,Yes
+670,Female,26-44,Middle,Divorced or Widowed,No
+671,Male,65+,Low,Divorced or Widowed,Yes
+672,Female,65+,Middle,Married,Yes
+673,Female,65+,High,Divorced or Widowed,No
+674,Female,65+,Middle,Married,No
+675,Male,45-64,High,Married,Yes
+676,Female,45-64,Low,Divorced or Widowed,No
+677,Female,26-44,High,Married,Yes
+678,Male,45-64,High,Married,Yes
+679,Male,65+,Low,Divorced or Widowed,No
+680,Male,45-64,High,Married,No
+681,Female,19-25,Middle,Cohabiting,No
+682,Female,65+,High,Married,Yes
+683,Male,65+,Low,Divorced or Widowed,No
+684,Male,45-64,High,Married,Yes
+685,Male,65+,High,Married,No
+686,Male,19-25,High,Single,No
+687,Female,26-44,High,Married,No
+688,Male,26-44,Low,Cohabiting,No
+689,Female,65+,Low,Cohabiting,Yes
+690,Female,45-64,Middle,Married,No
+691,Female,26-44,Middle,Married,No
+692,Female,26-44,High,Married,No
+693,Female,45-64,Low,Divorced or Widowed,No
+694,Female,26-44,Middle,Married,No
+695,Male,45-64,Middle,Cohabiting,Yes
+696,Female,45-64,Middle,Single,No
+697,Male,45-64,High,Married,Yes
+698,Female,19-25,Middle,Single,No
+699,Female,26-44,Middle,Married,Yes
+700,Female,19-25,Low,Single,No
+701,Female,26-44,Middle,Married,No
+702,Female,45-64,High,Married,Yes
+703,Female,26-44,High,Single,No
+704,Female,26-44,Middle,Single,No
+705,Male,45-64,Middle,Married,No
+706,Female,65+,High,Married,Yes
+707,Male,45-64,High,Married,No
+708,Female,26-44,High,Married,Yes
+709,Male,65+,Low,Single,No
+710,Male,45-64,Middle,Cohabiting,No
+711,Male,45-64,Middle,Married,No
+712,Female,65+,Low,Married,No
+713,Female,26-44,High,Married,Yes
+714,Female,45-64,High,Single,No
+715,Male,15-18,Middle,Single,No
+716,Male,45-64,Middle,Married,Yes
+717,Male,65+,Middle,Divorced or Widowed,Yes
+718,Female,15-18,Middle,Single,No
+719,Male,45-64,High,Married,Yes
+720,Male,45-64,Middle,Married,No
+721,Female,45-64,Middle,Married,No
+722,Female,45-64,Middle,Single,No
+723,Male,45-64,Low,Divorced or Widowed,No
+724,Male,65+,Low,Divorced or Widowed,No
+725,Male,45-64,High,Single,No
+726,Female,26-44,High,Cohabiting,Yes
+727,Male,15-18,Middle,Cohabiting,Yes
+728,Female,65+,High,Divorced or Widowed,No
+729,Female,26-44,Low,Married,No
+730,Female,45-64,Middle,Divorced or Widowed,No
+731,Male,26-44,Low,Single,No
+732,Male,26-44,High,Married,Yes
+733,Female,26-44,Middle,Married,Yes
+734,Female,45-64,Middle,Divorced or Widowed,No
+735,Male,65+,Middle,Married,No
+736,Female,26-44,Middle,Married,Yes
+737,Male,45-64,Middle,Married,No
+738,Female,26-44,Middle,Married,No
+739,Female,26-44,High,Married,Yes
+740,Female,65+,Low,Married,Yes
+741,Female,65+,High,Married,No
+742,Male,65+,High,Married,No
+743,Female,45-64,High,Cohabiting,Yes
+744,Female,26-44,Middle,Cohabiting,No
+745,Male,26-44,Middle,Divorced or Widowed,No
+746,Female,45-64,Middle,Married,No
+747,Female,45-64,High,Married,No
+748,Male,65+,Middle,Married,No
+749,Male,45-64,Middle,Married,Yes
+750,Female,26-44,High,Single,No
+751,Male,45-64,Middle,Single,No
+752,Male,45-64,High,Married,Yes
+753,Female,45-64,High,Married,Yes
+754,Female,19-25,Middle,Divorced or Widowed,Yes
+755,Male,65+,Low,Divorced or Widowed,Yes
+756,Male,19-25,High,Cohabiting,No
+757,Female,26-44,Middle,Married,Yes
+758,Male,45-64,Middle,Married,No
+759,Male,26-44,High,Single,Yes
+760,Female,26-44,High,Cohabiting,No
+761,Female,65+,High,Married,Yes
+762,Female,45-64,Middle,Married,Yes
+763,Male,26-44,High,Married,No
+764,Female,45-64,High,Married,Yes
+765,Male,45-64,Middle,Married,Yes
+766,Male,65+,Low,Married,Yes
+767,Male,26-44,High,Married,No
+768,Female,26-44,Low,Cohabiting,Yes
+769,Male,26-44,Middle,Cohabiting,No
+770,Female,26-44,High,Married,No
+771,Male,65+,High,Married,No
+772,Female,65+,Middle,Divorced or Widowed,No
+773,Female,19-25,High,Single,No
+774,Male,65+,Low,Married,No
+775,Female,45-64,Low,Single,No
+776,Female,65+,High,Married,No
+777,Male,26-44,High,Married,No
+778,Male,45-64,Low,Married,No
+779,Male,65+,High,Married,No
+780,Male,45-64,High,Married,No
+781,Female,19-25,Middle,Married,No
+782,Female,26-44,Middle,Cohabiting,No
+783,Female,65+,Middle,Married,No
+784,Female,65+,Middle,Married,No
+785,Male,65+,High,Divorced or Widowed,No
+786,Male,65+,Middle,Married,Yes
+787,Female,26-44,High,Married,Yes
+788,Female,45-64,Middle,Divorced or Widowed,No
+789,Male,26-44,Middle,Single,No
+790,Female,45-64,Middle,Divorced or Widowed,No
+791,Male,65+,Middle,Divorced or Widowed,Yes
+792,Female,26-44,Middle,Married,No
+793,Male,65+,High,Married,No
+794,Female,45-64,Low,Cohabiting,No
+795,Male,45-64,Middle,Married,No
+796,Male,65+,High,Married,No
+797,Male,45-64,Middle,Divorced or Widowed,Yes
+798,Male,45-64,Middle,Divorced or Widowed,No
+799,Male,45-64,High,Married,Yes
+800,Male,19-25,Middle,Married,No
+801,Female,65+,Middle,Married,No
+802,Male,26-44,Middle,Married,Yes
+803,Male,45-64,Middle,Single,No
+804,Female,26-44,Low,Divorced or Widowed,Yes
+805,Male,65+,Middle,Single,No
+806,Male,65+,Middle,Married,No
+807,Male,45-64,High,Married,Yes
+808,Female,45-64,Low,Cohabiting,No
+809,Female,45-64,Middle,Cohabiting,Yes
+810,Male,65+,High,Married,No
+811,Male,65+,Middle,Married,Yes
+812,Female,45-64,Middle,Divorced or Widowed,No
+813,Male,45-64,High,Married,Yes
+814,Male,45-64,Middle,Divorced or Widowed,No
+815,Female,19-25,Middle,Single,Yes
+816,Male,45-64,Middle,Married,Yes
+817,Female,65+,High,Married,Yes
+818,Female,26-44,High,Single,No
+819,Female,26-44,High,Married,No
+820,Male,45-64,Middle,Married,No
+821,Female,45-64,High,Married,No
+822,Female,26-44,Middle,Married,No
+823,Female,65+,High,Divorced or Widowed,No
+824,Female,65+,Low,Divorced or Widowed,No
+825,Male,26-44,Middle,Cohabiting,No
+826,Female,45-64,Middle,Married,Yes
+827,Female,19-25,High,Single,No
+828,Male,65+,Low,Married,No
+829,Female,45-64,High,Divorced or Widowed,No
+830,Female,15-18,Middle,Single,No
+831,Female,26-44,Middle,Married,Yes
+832,Female,26-44,High,Single,No
+833,Female,65+,Low,Divorced or Widowed,No
+834,Female,65+,Low,Married,Yes
+835,Female,65+,Middle,Divorced or Widowed,No
+836,Male,45-64,Middle,Single,No
+837,Female,45-64,High,Divorced or Widowed,No
+838,Male,19-25,Middle,Single,No
+839,Male,45-64,Low,Married,No
+840,Female,26-44,High,Married,Yes
+841,Male,26-44,Middle,Cohabiting,Yes
+842,Female,26-44,Middle,Married,No
+843,Male,26-44,Middle,Married,No
+844,Female,19-25,Middle,Cohabiting,No
+845,Female,45-64,Low,Married,No
+846,Female,45-64,Middle,Single,Yes
+847,Male,45-64,High,Married,No
+848,Female,65+,Low,Married,Yes
+849,Male,65+,Low,Divorced or Widowed,No
+850,Female,45-64,Middle,Married,Yes
+851,Male,65+,High,Divorced or Widowed,No
+852,Female,65+,High,Married,Yes
+853,Male,65+,Middle,Married,No
+854,Female,19-25,High,Single,No
+855,Female,45-64,Middle,Divorced or Widowed,No
+856,Female,65+,High,Divorced or Widowed,No
+857,Female,26-44,High,Married,Yes
+858,Male,65+,High,Married,Yes
+859,Female,65+,High,Married,Yes
+860,Male,65+,Middle,Married,Yes
+861,Female,65+,Low,Married,Yes
+862,Female,45-64,Middle,Married,No
+863,Female,26-44,Middle,Divorced or Widowed,No
+864,Female,15-18,Middle,Cohabiting,No
+865,Male,19-25,Middle,Married,Yes
+866,Female,45-64,Middle,Married,No
+867,Female,45-64,Middle,Married,No
+868,Male,45-64,High,Married,Yes
+869,Male,65+,Low,Divorced or Widowed,Yes
+870,Female,65+,Middle,Married,No
+871,Female,45-64,Middle,Divorced or Widowed,No
+872,Male,26-44,Middle,Cohabiting,No
+873,Female,65+,Low,Married,No
+874,Female,65+,Middle,Divorced or Widowed,No
+875,Female,26-44,Low,Married,Yes
+876,Male,26-44,Low,Cohabiting,No
+877,Male,26-44,High,Single,No
+878,Female,45-64,Middle,Married,No
+879,Female,26-44,High,Divorced or Widowed,Yes
+880,Female,65+,Low,Married,No
+881,Male,65+,Middle,Married,No
+882,Female,65+,High,Single,No
+883,Female,65+,High,Divorced or Widowed,No
+884,Male,45-64,High,Married,No
+885,Female,26-44,Middle,Single,No
+886,Male,45-64,Middle,Single,No
+887,Female,45-64,Low,Married,Yes
+888,Female,65+,Middle,Married,No
+889,Female,15-18,Middle,Single,No
+890,Male,45-64,High,Married,No
+891,Male,26-44,Middle,Married,No
+892,Male,65+,Middle,Married,Yes
+893,Female,45-64,Middle,Married,No
+894,Male,26-44,High,Married,No
+895,Female,65+,Middle,Married,No
+896,Female,26-44,Middle,Cohabiting,No
+897,Male,45-64,High,Married,No
+898,Female,26-44,High,Married,No
+899,Female,65+,High,Married,Yes
+900,Female,26-44,High,Married,No
+901,Female,45-64,Middle,Married,Yes
+902,Female,65+,High,Married,No
+903,Male,45-64,Low,Divorced or Widowed,No
+904,Female,65+,Low,Married,Yes
+905,Male,45-64,High,Married,No
+906,Male,19-25,Middle,Single,Yes
+907,Female,26-44,High,Married,No
+908,Female,45-64,High,Married,Yes
+909,Female,45-64,High,Married,Yes
+910,Male,45-64,High,Cohabiting,Yes
+911,Female,65+,High,Divorced or Widowed,No
+912,Male,15-18,Middle,Cohabiting,No
+913,Female,26-44,Middle,Single,No
+914,Male,26-44,High,Single,No
+915,Female,65+,Middle,Married,Yes
+916,Female,65+,Middle,Married,No
+917,Male,26-44,Middle,Married,No
+918,Male,26-44,High,Married,Yes
+919,Female,26-44,High,Married,No
+920,Male,65+,Low,Single,Yes
+921,Female,45-64,Middle,Married,Yes
+922,Male,26-44,Middle,Married,Yes
+923,Male,26-44,High,Married,Yes
+924,Female,65+,Low,Single,No
+925,Female,45-64,Middle,Cohabiting,No
+926,Female,26-44,Middle,Married,No
+927,Female,26-44,Middle,Married,No
+928,Male,65+,Middle,Married,Yes
+929,Female,45-64,Low,Divorced or Widowed,Yes
+930,Female,26-44,Middle,Single,No
+931,Male,26-44,Middle,Cohabiting,No
+932,Male,26-44,High,Married,Yes
+933,Female,26-44,Middle,Divorced or Widowed,No
+934,Female,65+,Middle,Divorced or Widowed,No
+935,Female,65+,High,Married,No
+936,Female,45-64,Middle,Married,Yes
+937,Male,65+,Low,Divorced or Widowed,No
+938,Female,26-44,Middle,Cohabiting,Yes
+939,Male,45-64,High,Married,Yes
+940,Female,45-64,High,Married,No
+941,Male,45-64,Middle,Married,No
+942,Male,65+,Low,Divorced or Widowed,Yes
+943,Male,65+,Middle,Divorced or Widowed,No
+944,Female,65+,Middle,Divorced or Widowed,Yes
+945,Female,26-44,High,Cohabiting,Yes
+946,Female,26-44,Low,Married,Yes
+947,Male,45-64,Middle,Married,Yes
+948,Male,45-64,Low,Divorced or Widowed,Yes
+949,Male,26-44,Middle,Divorced or Widowed,Yes
+950,Male,45-64,Middle,Cohabiting,No
+951,Male,45-64,Middle,Married,No
+952,Female,26-44,Middle,Single,No
+953,Male,65+,Low,Divorced or Widowed,No
+954,Female,15-18,Middle,Single,No
+955,Female,19-25,Middle,Single,No
+956,Female,65+,Middle,Married,No
+957,Female,26-44,Middle,Married,Yes
+958,Female,65+,High,Divorced or Widowed,No
+959,Male,65+,Middle,Divorced or Widowed,No
+960,Female,45-64,High,Married,Yes
+961,Male,26-44,High,Married,No
+962,Female,65+,Low,Divorced or Widowed,No
+963,Female,26-44,Middle,Married,Yes
+964,Female,26-44,Middle,Cohabiting,No
+965,Female,26-44,Middle,Married,No
+966,Male,45-64,Middle,Married,Yes
+967,Female,26-44,Middle,Cohabiting,Yes
+968,Male,45-64,Middle,Married,Yes
+969,Female,45-64,Middle,Married,No
+970,Male,45-64,Low,Single,No
+971,Male,65+,High,Married,Yes
+972,Male,45-64,Middle,Married,Yes
+973,Female,26-44,Middle,Married,Yes
+974,Female,45-64,Low,Married,No
+975,Female,19-25,High,Single,No
+976,Male,45-64,Middle,Married,No
+977,Female,26-44,High,Married,No
+978,Female,65+,Middle,Divorced or Widowed,No
+979,Male,65+,Middle,Married,No
+980,Female,45-64,Low,Married,Yes
+981,Male,65+,High,Married,No
+982,Female,26-44,Middle,Divorced or Widowed,No
+983,Female,26-44,Middle,Divorced or Widowed,Yes
+984,Male,45-64,Middle,Married,Yes
+985,Female,45-64,Middle,Single,No
+986,Male,65+,High,Divorced or Widowed,No
+987,Female,26-44,Low,Married,Yes
+988,Female,26-44,Middle,Married,Yes
+989,Male,65+,Middle,Married,Yes
+990,Male,65+,High,Divorced or Widowed,Yes
+991,Male,45-64,Middle,Divorced or Widowed,No
+992,Female,26-44,Middle,Married,No
+993,Male,45-64,Low,Cohabiting,No
+994,Female,65+,High,Married,No
+995,Female,65+,Middle,Married,Yes
+996,Male,19-25,High,Married,No
+997,Female,45-64,High,Married,No
+998,Male,45-64,High,Married,Yes
+999,Female,45-64,Middle,Divorced or Widowed,No
